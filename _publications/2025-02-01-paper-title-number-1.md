@@ -10,3 +10,4 @@ venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/2025.11.05.686724'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'SOTERO SILVA, N., BRÖHL, F., KAYSER, C. (2025) &quot;Eye Movement-Related Eardrum Oscillations (EMREOs) Do Not Have a Direct Impact on Auditory Spatial Discrimination&quot; <i>bioRxiv</i>, preprint, November 2025, 109276; https://doi.org/10.1101/2025.11.05.686724'
+---
