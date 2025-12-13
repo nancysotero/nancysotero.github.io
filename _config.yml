@@ -87,7 +87,7 @@ publication_category:
   books:
     title: 'Books and chapters'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference papers and presentations'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -229,6 +229,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  posts:
     output: true
     permalink: /:collection/:path/
 
