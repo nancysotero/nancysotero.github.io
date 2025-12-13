@@ -25,7 +25,7 @@ var addressPoints = [
     -46.5635019
   ],
   [
-    "VIII Neuroscience Course at UFRGS, 2017 (summer course)<br />UFRGS, Porto Alegre, Bazil",
+    "VIII Neuroscience Course at UFRGS, 2017 (summer course)<br />UFRGS, Porto Alegre, Brazil",
     -30.0339726,
     -51.2190483
   ],
