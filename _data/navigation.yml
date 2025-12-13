@@ -16,6 +16,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Conferences and Presentations"
+    url: /talks/ 
     
 #  - title: "Lattes"
 #    url: /lattes/
@@ -23,8 +26,6 @@ main:
  #  - title: "Blog Posts"
  #   url: /year-archive/
 
- #  - title: "Talks"
- #   url: /talks/ 
 
  # - title: "CV"
  #   url: /cv-json/
