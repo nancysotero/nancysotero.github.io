@@ -33,7 +33,7 @@ var addressPoints = [
     "XXVI Brazilian Speech Therapy Congress, 2018 (student's representation)<br />Curitiba, Brazil",
     -25.4250443,
     -49.3212071
-  ]
+  ],
   [
     "XXVII Brazilian Speech Therapy Congress, 2019 (talk)<br />Belo Horizonte, Brazil",
     -19.870682,
