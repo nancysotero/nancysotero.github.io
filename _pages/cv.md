@@ -44,11 +44,13 @@ Honors and Grants
 * EPFL, Summer Research Program - July- August 2022
   * Stipend for internship at Medical Image Processing Lab - Campus Biotech, Geneva, Switzerland. 
 * Santos Dumont Institute - November 2022 
-  * Awarded one of the five best presentations on VIII Neuroengineering Symposium, Macaíba, Brazil 
+  * Awarded one of the five best presentations on the 8th Neuroengineering Symposium, Macaíba, Brazil. 
 * 3rd Virtual Conference on Computational Audiology - June 2022
-  * Awarded "Video Pitch Award" for "Electrophysiological and pupillometric measures in monitoring auditory cortex plasticity and listening effort post hearing aids fitting" presentation. 
+  * Awarded "Video Pitch Award" for "Electrophysiological and pupillometric measures in monitoring auditory cortex plasticity and listening effort post hearing aids fitting" short video.
+* National SLP’s Student Executive Board (DENEFONO) - July 2019
+  * Awarded 3rd best poster and 3rd best oral communication on the 26th National Meeting of SLP Students, Recife, Brazil.
 * Federal University of Paraíba -  July 2018 
-  * Awarded "Academic Laurea”, graduation with honors in BSc. average 9.33/10
+  * Awarded "Academic Laurea”, graduation with honors in BSc. average 9.33/10.
 
 Skills
 ======
