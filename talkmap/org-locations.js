@@ -15,7 +15,7 @@ var addressPoints = [
   -46.6442493,16
   ],
   [
-  "XXVI National Meeting of Speech Therapy Students, 2019 (organization and presentation), Recife, Brazil"
+  "XXVI National Meeting of Speech Therapy Students, 2019 (organization and presentation), Recife, Brazil",
    -8.0505815,
    -34.9481354,18
   ],
