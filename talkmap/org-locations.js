@@ -1,8 +1,8 @@
 var addressPoints = [
   [
     "15th Congress of the Latin American Society of Neuropsychology, 2017, Natal, Brazil",
-   -5.8757673,
-   -35.1799309,15.76
+    -5.8757673,
+    -35.1799309,15.76
   ],
   [
     "XXIV National Meeting of Speech Therapy Students, 2017 (organization and presentation), João Pessoa, Brazil",
@@ -10,14 +10,14 @@ var addressPoints = [
     -34.8458974,17
   ],
   [
-  "XXV National Meeting of Speech Therapy Students, 2018 (organization), São Paulo, Brazil",
-   -23.5981078,
-  -46.6442493,16
+    "XXV National Meeting of Speech Therapy Students, 2018 (organization), São Paulo, Brazil",
+    -23.5981078,
+    -46.6442493,16
   ],
   [
-  "XXVI National Meeting of Speech Therapy Students, 2019 (organization and presentation), Recife, Brazil",
-   -8.0505815,
-   -34.9481354,18
+    "XXVI National Meeting of Speech Therapy Students, 2019 (organization and presentation), Recife, Brazil",
+    -8.0505815,
+    -34.9481354,18
   ],
   [
     "Neuroscience and Cognition Course at UFABC, 2018 (summer course), UFABC, São Bernardo, Brazil",
