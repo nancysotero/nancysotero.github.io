@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "15th Congress of the Latin American Society of Neuropsychology and 8th Annual Meeting of the Brazilian Institute of Neuropsychology and Behavior, 2017 (poster)<br />Natal, BR",
+  -5.8757673,
+  -35.1799309,15.76
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
