@@ -231,7 +231,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  posts:
+  conferences:
     output: true
     permalink: /:collection/:path/
 
