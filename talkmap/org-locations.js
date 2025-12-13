@@ -83,5 +83,5 @@ var addressPoints = [
     "8th International Conference on Auditory Cortex, 2025, Maastricht, The Netherlands",
     50.8470175,
     5.697484,18
-  ],
+  ]
 ];
