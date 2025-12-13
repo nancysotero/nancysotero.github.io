@@ -35,6 +35,8 @@ Research Experience
 
 Honors and Grants
 =====
+* Cognition and Natural Sensory Processing Initiative (CNSP) Hackathon - September 2025
+  * Awarded 2nd best participant for the work "fNIRS hyperscaning for singing and speaking", Maastricht, The Netherlands.
 * International Symposium on Auditory and Audiological Research/William Demant Foundation - August 2025
   * Scholarship for attendance and presentation, Nyborg, Denmark.
 * FENS, IBRO-PERC, Early Career Training Program Award (ECTP) - June 2024 
