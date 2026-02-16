@@ -7,7 +7,7 @@ excerpt: 'We here probed human acoustic lateralization performance for sounds pr
 date: November 2025
 venue: 'bioRxiv'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://doi.org/10.1101/2025.11.05.686724'
+paperurl: 'https://www.biorxiv.org/content/10.1101/2025.11.05.686724v2.full'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Sotero Silva N, Bröhl F, Kayser C. (2025) &quot;Sound lateralization Ability is affected by saccade direction but not Eye Movement-Related Eardrum Oscillations (EMREOs)&quot; <i>bioRxiv</i>, preprint, November 2025, 109276; https://doi.org/10.1101/2025.11.05.686724'
 ---
