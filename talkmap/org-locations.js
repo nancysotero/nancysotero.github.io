@@ -83,7 +83,7 @@ var addressPoints = [
     "8th International Conference on Auditory Cortex, 2025 - Maastricht, The Netherlands",
     50.8470175,
     5.697484,18
-  ]
+  ],
   [
     "Vision Augmented Hearing, Royal Society, 2026 - Manchester, United Kingdom",
     53.4718814,
