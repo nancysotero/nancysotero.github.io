@@ -16,12 +16,6 @@ Education
 * Multiprofessional Residency in Person with disabilities Health Care, Santos Dumont Institute, Brazil, 2021
 * BSc in Speech, Language and Hearing Sciences, Federal University of Paraíba, Brazil, 2018
 
-Teaching
-======
-* Federal University of Rio Grande do Norte, Brazil, 2021-2022
-  * Electronic hearing devices rehabilitation - Supervision to clinical practice for undergraduates
-  * Otoneurology, Balance Disorders and Occupational Audiology - Undergraduation courses
-
 Research Experience
 =====
 * Cognitive Neuroscience Lab - Bielefeld University, July 2023-currently
@@ -33,43 +27,51 @@ Research Experience
   * The aim of this project was to identify the prevalence of absolute pitch among music students and its relation to auditory temporal resolution abilities.
   * Conducted psychophysical experimentation on Absolute Pitch, central auditory processing assessment, and music cognition features, data analysis and reporting.
 
-Honors and Grants
-=====
-* Cognition and Natural Sensory Processing Initiative (CNSP) Hackathon - September 2025
-  * Awarded 2nd best participant for the work "fNIRS hyperscaning for singing and speaking", Maastricht, The Netherlands.
-* International Symposium on Auditory and Audiological Research/William Demant Foundation - August 2025
-  * Scholarship for attendance and presentation, Nyborg, Denmark.
-* FENS, IBRO-PERC, Early Career Training Program Award (ECTP) - June 2024 
-  * Stipend for internship at Sound and Speech Perception Research Group, Institute of Cognitive Neuroscience and Psychology of the Research Center for Natural Sciences, Budapest, Hungary.
-* EPFL, Summer Research Program - July- August 2022
-  * Stipend for internship at Medical Image Processing Lab - Campus Biotech, Geneva, Switzerland. 
-* Santos Dumont Institute - November 2022 
-  * Awarded one of the five best presentations on the 8th Neuroengineering Symposium, Macaíba, Brazil. 
-* 3rd Virtual Conference on Computational Audiology - June 2022
-  * Awarded "Video Pitch Award" for "Electrophysiological and pupillometric measures in monitoring auditory cortex plasticity and listening effort post hearing aids fitting" short video.
-* National SLP’s Student Executive Board (DENEFONO) - July 2019
-  * Awarded 3rd best poster and 3rd best oral communication on the 26th National Meeting of SLP Students, Recife, Brazil.
-* Federal University of Paraíba -  July 2018 
-  * Awarded "Academic Laurea”, graduation with honors in BSc. average 9.33/10.
+Teaching
+======
+* Federal University of Rio Grande do Norte, Brazil, 2021-2022
+  * Electronic hearing devices rehabilitation - Supervision to clinical practice for undergraduates
+  * Otoneurology, Balance Disorders and Occupational Audiology - Undergraduation courses
+* Bielefeld University, Germany, 2023-2026
+  * Tutor and Lectures, Multisensory Perception and Perception and Action research modules (bachelor and master)
 
 Skills
 ======
-* Eletrophysiology
-  * EEG (ERPs), ABR, FFR
+* Eletrophysiology (EEG, ERPs, ABR, FFR)
 * fNIRS
-* Eye tracking, pupillometry
-* Psychophysics anf behavioral experiment design
-* Hearing tests 
-  * PTA, middle ear assessmente, OAEs
-* Data processing and analysis (Basic MATLAB, Python)
-*  Languages: Native portuguse, english, spanish (basic), german (basic)
+* Eye tracking (pupillometry, saccades)
+* Psychophysics and behavioral experiment design
+* Audiology tests (PTA, middle ear assessmente, OAEs, balance evaluation)
+* Data processing and analysis (MATLAB, basic Python)
+*  Languages: English (C1), Portuguese (native), Spanish (B2), German (A2). Beginner in French, Italian and
+Brazilian Sign Language.
+
+  
+#Honors and Grants
+#=====
+#* Cognition and Natural Sensory Processing Initiative (CNSP) Hackathon - September 2025
+#  * Awarded 2nd best participant for the work "fNIRS hyperscaning for singing and speaking", Maastricht, The Netherlands.
+#* International Symposium on Auditory and Audiological Research/William Demant Foundation - August 2025
+#  * Scholarship for attendance and presentation, Nyborg, Denmark.
+#* FENS, IBRO-PERC, Early Career Training Program Award (ECTP) - June 2024 
+#  * Stipend for internship at Sound and Speech Perception Research Group, Institute of Cognitive Neuroscience and Psychology of the Research Center for Natural Sciences, Budapest, Hungary.
+#* EPFL, Summer Research Program - July- August 2022
+#  * Stipend for internship at Medical Image Processing Lab - Campus Biotech, Geneva, Switzerland. 
+#* Santos Dumont Institute - November 2022 
+#  * Awarded one of the five best presentations on the 8th Neuroengineering Symposium, Macaíba, Brazil. 
+#* 3rd Virtual Conference on Computational Audiology - June 2022
+#  * Awarded "Video Pitch Award" for "Electrophysiological and pupillometric measures in monitoring auditory cortex plasticity and listening effort post hearing aids fitting" short video.
+#* National SLP’s Student Executive Board (DENEFONO) - July 2019
+#  * Awarded 3rd best poster and 3rd best oral communication on the 26th National Meeting of SLP Students, Recife, Brazil.
+#* Federal University of Paraíba -  July 2018 
+#  * Awarded "Academic Laurea”, graduation with honors in BSc. average 9.33/10.
 
 Currículo Lattes
 =====
 [Brazilian CV repository](http://lattes.cnpq.br/1550368566230024) - available in portuguese and english
  
-Service and leadership
-======
-* Student representation - National SLP's Student Executive Board (2017 e 2021)
-  * General Coordination between 2018-2019
-  * Organising National Conferences and regional meetings from 2017 to 2019
+#Service and leadership
+#======
+#* Student representation - National SLP's Student Executive Board (2017 e 2021)
+#  * General Coordination between 2018-2019
+#  * Organising National Conferences and regional meetings from 2017 to 2019
