@@ -50,21 +50,21 @@ Brazilian Sign Language.
 #Honors and Grants
 #=====
 #* Cognition and Natural Sensory Processing Initiative (CNSP) Hackathon - September 2025
-#  * Awarded 2nd best participant for the work "fNIRS hyperscaning for singing and speaking", Maastricht, The Netherlands.
+#* Awarded 2nd best participant for the work "fNIRS hyperscaning for singing and speaking", Maastricht, The Netherlands.
 #* International Symposium on Auditory and Audiological Research/William Demant Foundation - August 2025
-#  * Scholarship for attendance and presentation, Nyborg, Denmark.
+#* Scholarship for attendance and presentation, Nyborg, Denmark.
 #* FENS, IBRO-PERC, Early Career Training Program Award (ECTP) - June 2024 
-#  * Stipend for internship at Sound and Speech Perception Research Group, Institute of Cognitive Neuroscience and Psychology of the Research Center for Natural Sciences, Budapest, Hungary.
+#* Stipend for internship at Sound and Speech Perception Research Group, Institute of Cognitive Neuroscience and Psychology of the Research Center for Natural Sciences, Budapest, Hungary.
 #* EPFL, Summer Research Program - July- August 2022
-#  * Stipend for internship at Medical Image Processing Lab - Campus Biotech, Geneva, Switzerland. 
+#* Stipend for internship at Medical Image Processing Lab - Campus Biotech, Geneva, Switzerland. 
 #* Santos Dumont Institute - November 2022 
-#  * Awarded one of the five best presentations on the 8th Neuroengineering Symposium, Macaíba, Brazil. 
+#* Awarded one of the five best presentations on the 8th Neuroengineering Symposium, Macaíba, Brazil. 
 #* 3rd Virtual Conference on Computational Audiology - June 2022
-#  * Awarded "Video Pitch Award" for "Electrophysiological and pupillometric measures in monitoring auditory cortex plasticity and listening effort post hearing aids fitting" short video.
+#* Awarded "Video Pitch Award" for "Electrophysiological and pupillometric measures in monitoring auditory cortex plasticity and listening effort post hearing aids fitting" short video.
 #* National SLP’s Student Executive Board (DENEFONO) - July 2019
-#  * Awarded 3rd best poster and 3rd best oral communication on the 26th National Meeting of SLP Students, Recife, Brazil.
+#* Awarded 3rd best poster and 3rd best oral communication on the 26th National Meeting of SLP Students, Recife, Brazil.
 #* Federal University of Paraíba -  July 2018 
-#  * Awarded "Academic Laurea”, graduation with honors in BSc. average 9.33/10.
+#* Awarded "Academic Laurea”, graduation with honors in BSc. average 9.33/10.
 
 Currículo Lattes
 =====
