@@ -73,5 +73,5 @@ Currículo Lattes
 #Service and leadership
 #======
 #* Student representation - National SLP's Student Executive Board (2017 e 2021)
-#  * General Coordination between 2018-2019
-#  * Organising National Conferences and regional meetings from 2017 to 2019
+#* General Coordination between 2018-2019
+#* Organising National Conferences and regional meetings from 2017 to 2019
