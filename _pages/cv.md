@@ -20,7 +20,7 @@ Education
 
 Research Experience
 =====
-* Understanding audio‑visual integration from the perspective of eye movement‑related eardrums oscillations (EMREOs). - Cognitive Neuroscience Lab, Bielefeld University, July 2023-currently
+* Understanding audio‑visual integration from the perspective of eye movement‑related eardrums oscillations (EMREOs) - Cognitive Neuroscience Lab, Bielefeld University, July 2023-currently
 * Electrophysiological, vascular/hemodinamic and pupillometric measures in cortical plasticity monitoring of hearing aids adult users - Santos Dumont Institute, 2019-2023
 * "Absolute Pitch" in music graduation students: is there a relationship with temporal auditory processing? - UFPB, 2017-2018
 
@@ -38,9 +38,9 @@ Skills
 * fNIRS
 * Eye tracking (pupillometry, saccades)
 * Psychophysics and behavioral experiment design
-* Audiology tests (PTA, middle ear assessmente, OAEs, balance evaluation)
+* Audiology assessment (PTA, middle ear evaluations, OAE, balance evaluation)
 * Data processing and analysis (MATLAB, basic Python)
-*  Languages: English (C1), Portuguese (native), Spanish (B2), German (A2). Beginner in French, Italian and
+* Languages: English (C1), Portuguese (native), Spanish (B2), German (A2). Beginner in French, Italian and
 Brazilian Sign Language.
 
 Currículo Lattes
