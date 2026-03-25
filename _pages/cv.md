@@ -20,22 +20,17 @@ Education
 
 Research Experience
 =====
-* Cognitive Neuroscience Lab - Bielefeld University, July 2023-currently
-  * PhD Candidate/Scientific worker. Project: visual-auditory integration, spatial hearing, eye movement-related eardrums oscillations.
-  * Conducts in-ear recordings, eye tracking, hearing tests and psychophysics paradigms, data processing, analysis and reporting.
+* Understanding audio‑visual integration from the perspective of eye movement‑related eardrums oscillations (EMREOs). - Cognitive Neuroscience Lab, Bielefeld University, July 2023-currently
 * Electrophysiological, vascular/hemodinamic and pupillometric measures in cortical plasticity monitoring of hearing aids adult users - Santos Dumont Institute, 2019-2023
-  * Conducted recordings in electroencephalography (BrainVision), pupillometry (Mangold) and fNIRS (NirX), data acquisition, processing and analysis; participants managment (patients from a hearing rehabilitation service and normal hearing subjects).
 * "Absolute Pitch" in music graduation students: is there a relationship with temporal auditory processing? - UFPB, 2017-2018
-  * The aim of this project was to identify the prevalence of absolute pitch among music students and its relation to auditory temporal resolution abilities.
-  * Conducted psychophysical experimentation on Absolute Pitch, central auditory processing assessment, and music cognition features, data analysis and reporting.
 
 Teaching
 ======
 * Federal University of Rio Grande do Norte, Brazil, 2021-2022
   * Electronic hearing devices rehabilitation - Supervision to clinical practice for undergraduates
-  * Otoneurology, Balance Disorders and Occupational Audiology - Undergraduation courses
+  * Otoneurology, Balance Disorders and Occupational Audiology courses (bachelor)
 * Bielefeld University, Germany, 2023-2026
-  * Tutor and Lectures, Multisensory Perception and Perception and Action research modules (bachelor and master)
+  * Multisensory Perception and Perception and Action research modules (tutor and lectures, bachelor and master)
 
 Skills
 ======
