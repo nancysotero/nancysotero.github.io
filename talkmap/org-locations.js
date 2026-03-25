@@ -84,4 +84,9 @@ var addressPoints = [
     50.8470175,
     5.697484,18
   ]
+  [
+    "Vision Augmented Hearing, Royal Society, 2026 - Manchester, United Kingdom",
+    53.4718814,
+    -2.5187969,11
+  ]
 ];
