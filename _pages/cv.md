@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Complete CV]([http://academicpages.github.io/files/NSS_CV_2026.pdf)]
+
 Education
 ======
 * PhD in Biology, Bielefeld University, Germany, 2023-current
