@@ -9,5 +9,5 @@ venue: 'bioRxiv'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.biorxiv.org/content/10.64898/2026.04.16.718961v2'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Sotero Silva N, Kayser C. (2025) &quot;Stability of Eye Movement-Related Eardrum Oscillations to acoustic and gravitational manipulations&quot; <i>bioRxiv</i>, April 2026, 2026.04.16.718961; doi: https://doi.org/10.64898/2026.04.16.718961'
+citation: 'Sotero Silva N, Kayser C. (2026) &quot;Stability of Eye Movement-Related Eardrum Oscillations to acoustic and gravitational manipulations&quot; <i>bioRxiv</i>, April 2026, 2026.04.16.718961; doi: https://doi.org/10.64898/2026.04.16.718961'
 ---
