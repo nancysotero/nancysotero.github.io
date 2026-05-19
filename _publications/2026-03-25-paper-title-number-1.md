@@ -9,6 +9,6 @@ venue: 'Journal of Neurophysiology'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2025.11.05.686724v2.full'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Sotero Silva N, Bröhl F, Kayser C. (2026) &quot;Sound lateralization ability is affected by saccade direction but not eye movement-related eardrum oscillations&quot; <i>Journal of Neurophaysiology</i>, April 2026, Volume 135, Issue 4; https://doi.org/10.1152/jn.00555.20'
+citation: 'Sotero Silva N, Bröhl F, Kayser C. (2026) &quot;Sound lateralization ability is affected by saccade direction but not eye movement-related eardrum oscillations&quot; <i>Journal of Neurophaysiology</i>, April 2026, 135(4); https://doi.org/10.1152/jn.00555.20'
 ---
 ![Graphic Abstract](http://nancysotero.github.io/files/graph_abstract_jnp.png)
