@@ -3,7 +3,7 @@ title: "Auditive complaints in workers exposed to noise and chemicals in footwea
 collection: publications
 category: manuscripts
 permalink: /publication/2020-06-17-paper-title-number-4
-%excerpt: 'in Portuguese'
+excerpt: 
 date: June 2020
 venue: 'Brazilian Journal of Health Review'
 paperurl: 'https://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/view/11822/9888'
