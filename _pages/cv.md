@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Complete CV](http://nancysotero.github.io/files/NSS_CV_2026.pdf)
+[Complete CV](http://nancysotero.github.io/files/NSS_CV_May_2026.pdf)
 
 Education
 ======
