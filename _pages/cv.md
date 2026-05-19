@@ -41,11 +41,11 @@ Skills
 * Languages: English (C1), Portuguese (native), Spanish (B2), German (A2). Beginner in French, Italian and
 Brazilian Sign Language.
 
-[comment]: # Research Experience
-[comment]: # =====
-[comment]: # * Understanding audio‑visual integration from the perspective of eye movement‑related eardrums oscillations (EMREOs) - Cognitive Neuroscience Lab, Bielefeld University, July 2023-currently
-[comment]: # * Electrophysiological, vascular/hemodinamic and pupillometric measures in cortical plasticity monitoring of hearing aids adult users - Santos Dumont Institute, 2019-2023
-[comment]: # * "Absolute Pitch" in music graduation students: is there a relationship with temporal auditory processing? - UFPB, 2017-2018
+[comment]: # (Research Experience)
+[comment]: # (=====)
+[comment]: # (* Understanding audio‑visual integration from the perspective of eye movement‑related eardrums oscillations (EMREOs) - Cognitive Neuroscience Lab, Bielefeld University, July 2023-currently)
+[comment]: # (* Electrophysiological, vascular/hemodinamic and pupillometric measures in cortical plasticity monitoring of hearing aids adult users - Santos Dumont Institute, 2019-2023)
+[comment]: # (* "Absolute Pitch" in music graduation students: is there a relationship with temporal auditory processing? - UFPB, 2017-2018)
 [comment]: # (Service and leadership)
 [comment]: # (======)
 [comment]: # (* Student representation - National SLP's Student Executive Board (2017 e 2021))
