@@ -3,12 +3,13 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$primary-color              : #ed9cb4;
+$primary-color              : #c38ba7;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#000, $primary-color, 50%);
 
-$background                 : #fffafa;
+/* $background               : #fffafa; */ 
+$background                 : #faf5ea;   
 $background-light           : mix(#fff, $background, 20%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text                       : #1c1e27;
