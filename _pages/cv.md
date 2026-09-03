@@ -17,7 +17,7 @@ Currículo Lattes
 
 Education
 ======
-* PhD in Biology, Bielefeld University, Germany, 2023-current
+* PhD in Biology, Bielefeld University, Germany, 2026
 * MSc in Neuroengineering, Santos Dumont Institute, Brazil, 2023
 * Multiprofessional Residency in Person with disabilities Health Care, Santos Dumont Institute, Brazil, 2021
 * BSc in Speech, Language and Hearing Sciences, Federal University of Paraíba, Brazil, 2018
