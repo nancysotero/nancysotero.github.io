@@ -89,4 +89,19 @@ var addressPoints = [
     53.4718814,
     -2.5187969,11
   ]
+  [
+    "24th International Multisensory Research Forum, 2026 - Genoa, Italy",
+    44.40828,
+    8.9187676,17
+  ]
+  [
+    "FENS Forum 2026 - Barcelona, Spain",
+    41.3546937,
+    2.1252503,17
+  ]
+  [
+    "Cambridge Open Science Summer School, 2026 - Cambridge, UK",
+    52.1859446,
+    0.1325334,16
+  ]
 ];
